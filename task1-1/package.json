@@ -1,0 +1,15 @@
+{
+  "name": "task1-1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "task1": "nodemon ./src/index.js"
+  },
+  "author": "Dzmitry Mahliui <dmitry.mahliui@gmail.com>",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^2.0.12"
+  }
+}
